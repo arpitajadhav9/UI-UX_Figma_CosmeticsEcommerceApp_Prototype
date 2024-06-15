@@ -12,8 +12,13 @@ I embarked on a fun and insightful journey comparing Tira, Purplle, and Sugar to
 
 ### WHAT YOU'LL FIND
 
-- **High-Fidelity Prototype**: This is the polished, detailed version of the design, complete with the right colors, typography, and spacing to give you a real feel of the final product.
-- **Mid-Fidelity Prototype**: These are more about layout and functionality, offering a clear vision of the app’s structure without the distraction of detailed visuals.
+- **HIGH-FIDELITY PROTOTYPE**: This is the polished, detailed version of the design, complete with the right colors, typography, and spacing to give you a real feel of the final product.
+- **MID-FIDELITY PROTOTYPE**: These are more about layout and functionality, offering a clear vision of the app’s structure without the distraction of detailed visuals.
+
+### LINKS TO PROTOTYPES
+
+- **HIGH-FIDELITY PROTOTYPE LINK**: https://www.figma.com/design/Z37KREzs9WMF9Za0xtyFds/High-Fidelity-Prototype?node-id=0-1&t=KdGRwMcynhXgacj1-0
+- **MID-FIDELITY PROTOTYPE LINK**: https://www.figma.com/design/1FhbDx3mmCpV8yhYkAMabQ/Mid-Fidelity-Prototype-of-Cosmetic-app?node-id=0-1&t=dD3we3s8xFP9p8GJ-0
 
 ### TOOLS USED
 
